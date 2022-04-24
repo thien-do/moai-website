@@ -24,7 +24,7 @@ export const Hero = (): JSX.Element => (
 			<Button
 				size={Button.sizes.large}
 				children="GitHub"
-				href="https://github.com/moaijs/moai"
+				href="https://github.com/moaijs/moai-legacy"
 			/>
 		</div>
 	</div>
